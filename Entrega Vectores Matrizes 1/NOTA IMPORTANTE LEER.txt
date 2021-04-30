@@ -1,0 +1,20 @@
+Ok... antes de pasar a la NOTA IMPORTANTE,
+quiero darte gracias por tomarte el tiempo y abrirla,
+:)
+
+Nota 1:
+Los primeros puntos de vectores (todos) los hice yo sin
+investigar o sacar codigo de internet.
+
+Nota 2:
+Los puntos de matrices (sudoku, ahorcado, triqui)
+Lo siento pero tube que sacarlos de internet...
+sin embargo, modifique el codigo original para darle
+un estilo mas personal (desde los # se ve...)
+
+Nota 3:
+Los puntos que mencione antes, los estudie para darles
+otros usos, ya que no sirve de nada copiar y pegar sin
+aprender algo nuevo, y yo tomo eso my enserio :)
+
+Gracias por su tiempo :) 
